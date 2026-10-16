@@ -4,6 +4,8 @@ Full-stack engineer based in Jakarta, Indonesia. I ship complete products end to
 
 Lately I've been deep in AI developer tooling: coding agents, AI gateways, and local-first apps.
 
+Let's connect on [LinkedIn](https://www.linkedin.com/in/galih-putro-aji).
+
 ### Featured projects
 
 - **[glance](https://github.com/galihvsx/glance)** — lean, self-hosted issue tracker. The full Plane-style workflow (intake → triage → board → cycles) in a single Go binary with an embedded React SPA. Postgres-only, boring to deploy.
